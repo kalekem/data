@@ -1,0 +1,11 @@
+customer_id,customer_name,city,status,update_timestamp
+101,Alice Smith,New York,Inactive,2025-07-02 11:00:00
+103,Charlie Brown,Chicago,Active,2025-07-02 11:05:00
+105,Eve Adams,Houston,Active,2025-07-02 11:10:00
+111,Karen Miller,San Francisco,Active,2025-07-02 11:15:00
+112,Liam Davis,Portland,Active,2025-07-02 11:20:00
+102,Bob Johnson,Los Angeles,Active,2025-07-01 10:05:00
+104,Diana Prince,Miami,Active,2025-07-01 10:15:00
+106,Frank White,Seattle,Active,2025-07-01 10:25:00
+107,Grace Lee,Boston,Inactive,2025-07-01 10:30:00
+108,Henry King,Denver,Active,2025-07-01 10:35:00
